@@ -2,7 +2,7 @@
 # Hi 👋  
 I'm Giovani Pereira da Silva!
 
-Sou desenvolvedor com foco em aplicações web, utilizando Angular, SCSS, Tailwind, Bootstrap, Angular Material e outras tecnologias modernas. Gosto de criar interfaces bem estruturadas e responsivas, resolver problemas reais e estou sempre buscando evoluir como profissional.
+Sou desenvolvedor com foco em aplicações web, utilizando Angular, SCSS, Tailwind, Bootstrap, Angular Material e outras tecnologias. Gosto de criar interfaces bem estruturadas e responsivas, resolver problemas reais e estou sempre buscando evoluir como profissional.
 
 - 🔭 Atualmente trabalhando com Angular e .NET.
 - 🌱 Estudando boas práticas de desenvolvimento web, com foco em performance, arquitetura e integração entre front-end e back-end.
